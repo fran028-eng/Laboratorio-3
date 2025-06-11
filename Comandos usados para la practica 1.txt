@@ -1,0 +1,14 @@
+repositorios practica 1
+
+
+sudo nano /etc/default/grub 
+
+init=/bin/bash 
+
+mount -o remount,rw / 
+
+passwd 
+
+sync
+
+reboot -f

@@ -1,0 +1,27 @@
+repositorios practica 2
+
+nano backup_20198529.sh
+     chmod +x backup_20198529
+     chmod +x backup_20198529.sh
+     clear
+     sudo ./backup_20198529.sh
+     nano backup_20198529.sh
+     sudo ./backup_20198529.sh
+     nano backup_20198529.sh
+     sudo ./backup_20198529.sh
+     sudo ls -lh /var/backups/backup_20198529_*.tar.gz
+     clear
+     nano guardar_ifconfig.sh
+     chmod +x guardad_ifconfig.sh
+     chmod +x guardar_ifconfig.sh
+     ./guardar_ifconfig.sh
+     nano guardar_ifconfig.sh
+     ./guardar_ifconfig.sh
+     cat /home/20198529/Desktop/franciscoconfig.txt
+     clear
+     nano guardar_ifconfig.sh
+     ./guardar_ifconfig.sh
+     cat /home/20198529/Desktop/20198529config.txt
+     clea3r
+     clear
+     history

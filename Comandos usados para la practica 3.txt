@@ -1,0 +1,50 @@
+repositorios practica 3
+
+sudo apt update
+sudo apt install openssh-server
+
+
+sudo systemctl enable ssh
+sudo systemctl start ssh
+
+
+
+sudo systemctl restart ssh
+
+
+clear
+    mkdir .ssh
+    ls
+    nano ~/.ssh/authorized_keys
+    exit
+    ls
+    cd ..
+    ls
+    cd home
+    nano ~/.ssh/authorized_keys
+    exit
+    ls
+    cd sshd
+    ls
+    cd ..
+    mkdir .ssh
+    ls
+    cleae
+    clear
+    ls
+    cleae
+    clear
+    systemctl status ssh
+    ls
+    cd sshd
+    ls
+    cd ..
+    mkdir .ssh
+    ls
+    cleae
+    clear
+    ls
+    cleae
+    clear
+    systemctl status ssh
+
